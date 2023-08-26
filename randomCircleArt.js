@@ -1,3 +1,5 @@
+//uses p5.js
+
 canvasSize = 400;
 xPos = Math.floor(Math.random() * canvasSize);
 yPos = Math.floor(Math.random() * canvasSize);
